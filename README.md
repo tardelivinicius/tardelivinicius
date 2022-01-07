@@ -1,5 +1,5 @@
 
-<img src="https://github.com/tardelivinicius/tardelivinicius/blob/main/about-image.png">
+<img src="https://github.com/tardelivinicius/tardelivinicius/blob/main/header-image.png">
 <div align="center">
   
 <a href="https://aws.amazon.com" target="_blank">
