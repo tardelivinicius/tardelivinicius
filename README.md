@@ -64,7 +64,7 @@
 <ul>
   <li>AWS: S3 Bucket, EC2, Lambda</li>
   <li>Azure: Web App, Functions, Storage</li>
-  <li>[ython: API Builds with Flask and Django Rest Framework</li>
+  <li>Python: API Builds with Flask and Django Rest Framework</li>
   <li>PHP / Laravel</li>
   <li>MySQL, SQL Databases</li>
   <li>Docker and Docker Compose</li>
