@@ -1,3 +1,13 @@
+# 👋 Olá, eu sou o Vinícius Valle
+
+Desenvolvedor **Backend Sênior** com forte atuação na **@Take5**, entregando soluções escaláveis, performáticas e seguras. Tenho um histórico sólido de contribuições significativas em arquitetura, desenvolvimento e gestão de projetos, com experiência abrangente em tecnologias modernas e infraestrutura em nuvem.
+
+Sou apaixonado por construir APIs robustas, automatizar processos, otimizar ambientes e liderar iniciativas que impulsionem a evolução tecnológica das empresas.
+
+---
+
+## 🚀 Principais Competências
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
@@ -19,15 +29,6 @@
   <br/><br/>
 </div>
 
-# 👋 Olá, eu sou o Vinícius Valle
-
-Desenvolvedor **Backend Sênior** com forte atuação na **@Take5**, entregando soluções escaláveis, performáticas e seguras. Tenho um histórico sólido de contribuições significativas em arquitetura, desenvolvimento e gestão de projetos, com experiência abrangente em tecnologias modernas e infraestrutura em nuvem.
-
-Sou apaixonado por construir APIs robustas, automatizar processos, otimizar ambientes e liderar iniciativas que impulsionem a evolução tecnológica das empresas.
-
----
-
-## 🚀 Principais Competências
 
 ### ☁️ Cloud & Infraestrutura
 - **AWS**
