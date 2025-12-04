@@ -1,78 +1,77 @@
-
-<img src="https://github.com/tardelivinicius/tardelivinicius/blob/main/header-image.png">
 <div align="center">
-  
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/>
-</a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
- </a> 
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>
- </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
-</a>
- <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-</a> 
-<a href="https://heroku.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
-</a> 
-<a href="https://www.linux.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-</a> 
-<a href="https://www.php.net" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
-</a> 
-<a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-</a> 
-<a href="https://quasar.dev/" target="_blank"> 
-  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="50" height="50"/> 
-</a> 
-<a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="vuejs" width="50" height="50"/> 
-</a> 
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=tardelivinicius&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</p>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/> 
+  <br/><br/>
 </div>
 
-<strong>About me:</strong>
+# 👋 Olá, eu sou o Vinícius Valle
 
-<p>IT experience for eight years with three years in development area. Currently working with WEB development at Take5 with solutions and applications for managing online training and field teams.</p>
+Desenvolvedor **Backend Sênior** com forte atuação na **@Take5**, entregando soluções escaláveis, performáticas e seguras. Tenho um histórico sólido de contribuições significativas em arquitetura, desenvolvimento e gestão de projetos, com experiência abrangente em tecnologias modernas e infraestrutura em nuvem.
 
-<ul>
-  <li>Proactive</li>
-  <li>Responsible</li>
-  <li>Ease of teamwork</li>
-  <li>Communicative</li>
-</ul>
+Sou apaixonado por construir APIs robustas, automatizar processos, otimizar ambientes e liderar iniciativas que impulsionem a evolução tecnológica das empresas.
 
-<strong>Knowledge:</strong>
+---
 
-<ul>
-  <li>AWS: S3 Bucket, EC2, Lambda</li>
-  <li>Azure: Web App, Functions, Storage</li>
-  <li>Python: API Builds with Flask and Django Rest Framework</li>
-  <li>PHP / Laravel</li>
-  <li>MySQL, SQL Databases</li>
-  <li>Docker and Docker Compose</li>
-  <li>Vue.JS / Quasar Framework (Basic)</li>
- </ul>
+## 🚀 Principais Competências
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/viniciusvalle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viniciusvalle" height="30" width="40" /></a>
-<a href="https://tardelivinicius.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="tardelivinicius" height="30" width="40" /></a>
-</p>
+### ☁️ Cloud & Infraestrutura
+- **AWS**
+- **Azure**
+- **Google Cloud**
+          
+### 🧩 Desenvolvimento Backend
+- **Python**, Flask, Django, Django Rest Framework  
+- **PHP**, Laravel
+
+### 🗄️ Bancos de Dados
+- MySQL  
+- PostgreSQL  
+- SQL  
+- Firebase  
+
+### 🛠️ Ferramentas & Tecnologias
+- Docker  
+- Vue.js, Quasar  
+- React, React Native  
+- Next.js  
+- Tailwind CSS  
+- TypeScript  
+
+### 🔧 Habilidades Adicionais
+- CI/CD  
+- DevOps  
+- Supabase  
+
+---
+
+## 📂 Projetos & Conteúdos
+
+Conheça mais sobre meu trabalho e minhas publicações:
+
+📌 **GitHub:**  
+https://github.com/tardelivinicius
+
+✍️ **Medium:**  
+https://tardelivinicius.medium.com
+
+✍️ **Linkedin:**  
+https://linkedin.com/in/viniciusvalle
+
+---
+
+🧭 Sempre aberto a novas oportunidades, desafios e colaborações.
